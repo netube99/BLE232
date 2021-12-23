@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : D:\NETUBE\workspace\BLE232\PCB\BLE232.PcbDoc
+Date         : 2021/12/23
+Time         : 23:01:31
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 44mmx31mm
+    Components on board, 46
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 110
+    Connections routed, 110
+    Connections remaining, 0
+count : 4
