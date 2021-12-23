@@ -6,4 +6,4 @@
 
 ## 效果图
 
-![PCB3D](Document\Pictures\PCB3D.jpg)
+![PCB3D](Document/PCB3D.jpg)
