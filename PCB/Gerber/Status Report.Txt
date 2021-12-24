@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[BLE232.TXT]
+   Generated File[BLE232.LDP]
+   Generated File[BLE232.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:12:35 On 2021/12/24
